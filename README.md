@@ -1,2 +1,0 @@
-# Primitive-Data-Type
-C#
